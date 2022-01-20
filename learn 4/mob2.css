@@ -1,0 +1,49 @@
+h1{
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding-top: 20px;
+
+}
+.nav
+{
+    width:100%;
+}
+ @media  (max-width:1200px){
+     .c1{
+        height: 444px;
+        width:800px;
+     }
+ }
+
+ @media (max-width:1440px){
+     .c1{
+        height: 300px !important;
+        width:800px !important;
+     }
+ }
+ @media (max-width:768px){
+    .c1{
+       height: 300px !important;
+       width:800px !important;
+    }
+}
+@media (max-width:1960px){
+    .c1{
+       height: 500px;
+       width:900px;
+    }
+}
+@media (min-width: 2560px){
+    .c1{
+       height: 500px !important;
+       width:1200px !important;
+    }
+}
+@media (min-width: 30000px){
+    .c1{
+       height: 500px !important;
+       width:1200px !important;
+    }
+}
+
